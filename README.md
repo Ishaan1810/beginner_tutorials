@@ -9,6 +9,7 @@ Creating a subscriber and publisher in ROS2
 source /opt/ros/humble/setup.bash
 # Navigate to workspace
 cd ~/ros2_ws/src
+git clone https://github.com/Ishaan1810/beginner_tutorials.git
 # Navigate to home directory
 cd ..
 # Install rosdep dependencies before building the package
