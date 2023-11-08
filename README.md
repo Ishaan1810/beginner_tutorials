@@ -40,10 +40,3 @@ sudo apt install cpplint
 # run in the top-level project directory (eg., in cpp-boilerplate-v2/)
 cpplint --filter="-legal/copyright" $( find . -name *.cpp | grep -vE -e "^./build/" )
 ```
-
-
-[INFO] [1699397210.604083570] [Subscriber]: Hey, I heard: 'Hey there, ROS2 here! 9'
-[INFO] [1699397211.103319098] [Subscriber]: Hey, I heard: 'Hey there, ROS2 here! 10'
-[INFO] [1699397211.603818082] [Subscriber]: Hey, I heard: 'Hey there, ROS2 here! 11'
-
-```
