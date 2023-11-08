@@ -1,0 +1,3 @@
+Done processing src/publisher1.cpp
+Done processing src/subscriber1.cpp
+Total errors found: 2
