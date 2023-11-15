@@ -1,5 +1,5 @@
 /**
- * @file subscriber1.cpp
+ * @file subscriber.cpp
  * @author ishaanp@umd.edu
  * @brief This subscriber program is used to print the message
  * sent by the publisher to topic

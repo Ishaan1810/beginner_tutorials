@@ -1,5 +1,5 @@
 /**
- * @file publisher1.cpp
+ * @file publisher.cpp
  * @author ishaanp@umd.edu
  * @brief This publisher program is used publish custom messages
  */
