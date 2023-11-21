@@ -1,11 +1,11 @@
-##Building the Ros Package
-# Source ROS
+#Building the Ros Package
+ Source ROS
 source /opt/ros/humble/setup.bash
-# Navigate to workspace
+ Navigate to workspace
 cd ~/ros2_ws/src
-git clone https://github.com/mvboiii/beginner_tutorials.git
+git clone https://github.com/ishaan1810/beginner_tutorials.git
 
-# Navigate to home directory
+ Navigate to home directory
 cd ..
 # Install rosdep dependencies before building the package
 rosdep install -i --from-path src --rosdistro humble -y
