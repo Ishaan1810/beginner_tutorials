@@ -1,14 +1,45 @@
-[INFO] [1699416037.864260565] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?0'
-[INFO] [1699416038.364169660] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?1'
-[INFO] [1699416038.864205224] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?2'
-[INFO] [1699416039.364192138] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?3'
-[INFO] [1699416039.864176673] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?4'
-[INFO] [1699416040.364227240] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?5'
-[INFO] [1699416040.864208916] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?6'
-[INFO] [1699416041.364250759] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?7'
-[INFO] [1699416041.864210685] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?8'
-[INFO] [1699416042.364246592] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?9'
-[INFO] [1699416042.864291287] [Publisher]: Publishing: 'Hi Ishaan, Whatsup?10'
+[INFO] [1700548143.085793708] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548143.585138029] [rcl]: Calling timer
+[DEBUG] [1700548143.585231372] [publisher]: Able to insert message data 
+[INFO] [1700548143.585277060] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548144.085370356] [rcl]: Calling timer
+[DEBUG] [1700548144.085446231] [publisher]: Able to insert message data 
+[INFO] [1700548144.085487132] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548144.585503375] [rcl]: Calling timer
+[DEBUG] [1700548144.585598820] [publisher]: Able to insert message data 
+[INFO] [1700548144.585653840] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548145.085787984] [rcl]: Calling timer
+[DEBUG] [1700548145.085910754] [publisher]: Able to insert message data 
+[INFO] [1700548145.085981214] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548145.585063297] [rcl]: Calling timer
+[DEBUG] [1700548145.585124663] [publisher]: Able to insert message data 
+[INFO] [1700548145.585159292] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548146.085494129] [rcl]: Calling timer
+[DEBUG] [1700548146.085573167] [publisher]: Able to insert message data 
+[INFO] [1700548146.085612243] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548146.585237715] [rcl]: Calling timer
+[DEBUG] [1700548146.585354055] [publisher]: Able to insert message data 
+[INFO] [1700548146.585501130] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548147.085018391] [rcl]: Calling timer
+[DEBUG] [1700548147.085132228] [publisher]: Able to insert message data 
+[INFO] [1700548147.085194022] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548147.585230169] [rcl]: Calling timer
+[DEBUG] [1700548147.585354245] [publisher]: Able to insert message data 
+[INFO] [1700548147.585422249] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548148.084977189] [rcl]: Calling timer
+[DEBUG] [1700548148.085077719] [publisher]: Able to insert message data 
+[INFO] [1700548148.085137275] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+[DEBUG] [1700548148.585720007] [rcl]: Calling timer
+[DEBUG] [1700548148.585927861] [publisher]: Able to insert message data 
+[INFO] [1700548148.586027532] [publisher]: Publishing: 'Hi Ishaan, Whatsup?'
+^C[INFO] [1700548148.920782231] [rclcpp]: signal_handler(signum=2)
+[DEBUG] [1700548148.920851591] [rclcpp]: signal_handler(): notifying deferred signal handler
+[DEBUG] [1700548148.920982285] [rclcpp]: deferred_signal_handler(): woken up due to SIGINT/SIGTERM or uninstall
+[DEBUG] [1700548148.921058001] [rclcpp]: deferred_signal_handler(): shutting down
+[DEBUG] [1700548148.921128816] [rclcpp]: deferred_signal_handler(): shutting down rclcpp::Context @ 0x55fe84c3dee0, because it had shutdown_on_signal == true
+[DEBUG] [1700548148.921220975] [rcl]: Shutting down ROS client library, for context at address: 0x55fe84bd33b0
+
+
 
 
 [INFO] [1699416037.865988267] [Subscriber]: Time passsss'Hi Ishaan, Whatsup?0'
