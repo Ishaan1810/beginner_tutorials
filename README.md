@@ -1,8 +1,8 @@
 # beginner_tutorials
-A repository for ros2 humble for enpm808x
+A repository for ros2 humble 
 
 ### Author
-Ishaan Parikh
+Ishaan Parikh 
 
 ### Building the ROS package
 ```bash
