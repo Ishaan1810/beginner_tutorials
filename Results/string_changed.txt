@@ -1,0 +1,10 @@
+[talker-1] [INFO] [1700018543.750454151] [talker]: Publishing: 'Hi Ishaan, Whatsup?'
+[listener-2] [INFO] [1700018543.751711730] [listener]: I heard: 'Hi Ishaan, Whatsup?'
+[talker-1] [INFO] [1700018544.358215253] [talker]: Received service request
+[talker-1] Input: 'Bye'
+[talker-1] [INFO] [1700018544.358252903] [talker]: Sending back response: 'Bye Edited by service'
+[talker-1] [INFO] [1700018544.750408556] [talker]: Publishing: 'Bye Edited by service'
+[listener-2] [INFO] [1700018544.751770814] [listener]: I heard: 'Bye Edited by service'
+[talker-1] [INFO] [1700018545.750279407] [talker]: Publishing: 'Bye Edited by service'
+[talker-1] [INFO] [1700018545.750279407] [talker]: Publishing: 'Bye Edited by service'
+[talker-1] [INFO] [1700018545.750279407] [talker]: Publishing: 'Bye Edited by service'
