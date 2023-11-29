@@ -75,4 +75,5 @@ if(BUILD_TESTING)
   DESTINATION lib/${PROJECT_NAME})
 endif()
 
-ament_export_dependencies(rosidl_default_runtime)
+ament_export_dependencies(rosidl_default_runtime)\
+ament_package()
