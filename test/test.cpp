@@ -1,6 +1,5 @@
 #include <gtest/gtest.h>
 #include <stdlib.h>
-
 #include <rclcpp/executor.hpp>
 #include <rclcpp/rclcpp.hpp>
 #include <std_msgs/msg/string.hpp>
