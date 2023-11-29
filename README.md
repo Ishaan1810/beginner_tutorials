@@ -27,6 +27,16 @@ ros2 run beginner_tutorials listener --ros-args --log-level debug
 # Run server_client
 ros2 run beginner_tutorials server_client
 ```
+### Bags 
+```bash
+# make bags directory
+mkdir bags
+
+# to run the bag
+ros2 bag record chatter
+
+# to review the recording
+ros2 bag info recording_bag_name
 
 ### Custom Launch
 ```bash
