@@ -12,7 +12,7 @@ Test project /home/Ishaan1810/beginner_tutorials/build/beginner_tutorials
 Constructing a list of tests
 Done constructing a list of tests
 Updating test list for fixtures
-Added 0 tests to meet fixture requirements
+Added 0 tests to meet fixture requirement
 Checking test dependency graph...
 Checking test dependency graph end
 test 1
