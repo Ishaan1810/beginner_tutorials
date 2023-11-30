@@ -92,6 +92,4 @@ cpplint --filter="-legal/copyright" $( find . -name *.cpp | grep -vE -e "^./buil
 ![Capture1](https://github.com/Ishaan1810/beginner_tutorials/assets/20563798/9c286cf4-02d9-4509-b62b-b63ceac02049)
 ![Capture](https://github.com/Ishaan1810/beginner_tutorials/assets/20563798/70836b51-536e-445a-8649-a1c4c7af508a)
 
-Verfied Doxygen commenting for each file
-
 
