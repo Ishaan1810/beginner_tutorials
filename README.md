@@ -27,10 +27,47 @@ ros2 run beginner_tutorials listener --ros-args --log-level debug
 # Run server_client
 ros2 run beginner_tutorials server_client
 ```
+### Bags 
+```bash
+# make bags directory
+mkdir bags
+
+# to run the bag
+ros2 bag record chatter
+
+# to review the recording
+ros2 bag info recording_bag_name
 
 ### Custom Launch
 ```bash
 ros2 launch beginner_tutorials custom_launch.yaml frequency:=1ros2 launch beginner_tutorials custom_launch.yaml frequency:=1
+```
+### tf2_frames
+```bash
+# to run the talker frame
+ros2 run beginner_tutorials talker ishaan 0 1 0 0 0 0
+
+# to echo the frame 
+ros2 run tf2_ros tf2_echo world ishaan
+
+# results
+At time 0.0
+- Translation: [0.000, 1.000, 0.000]
+- Rotation: in Quaternion [0.000, 0.000, 0.000, 1.000]
+- Rotation: in RPY (radian) [0.000, -0.000, 0.000]
+- Rotation: in RPY (degree) [0.000, -0.000, 0.000]
+- Matrix:
+  1.000  0.000  0.000  0.000
+  0.000  1.000  0.000  1.000
+  0.000  0.000  1.000  0.000
+  0.000  0.000  0.000  1.000
+
+```
+### test 
+```bash
+# command to run gtest
+colcon test --event-handlers console_direct+ --packages-select beginner_tutorials
+
 ```
 
 ### CppCheck
